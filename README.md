@@ -1,4 +1,4 @@
-# Hey, I'm Kirill (aka Keeroll) 👋
+# Hey, I'm Keeroll 👋
 
 I'm a **Senior Software Engineer** specializing in building scalable web applications and mobile solutions, primarily using **Angular** and **.NET**. 
 
